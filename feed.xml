@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-<generation-date>2022-03-21T10:20:00+03:00</generation-date>
+<generation-date>2022-03-23T10:20:00+03:00</generation-date>
 
 <offer internal-id="156">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый проспект</address>
+<address>Каштановый проезд</address>
 </location>
 
 <sales-agent>
@@ -86,7 +86,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -165,7 +165,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -244,7 +244,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -323,7 +323,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -402,7 +402,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -481,14 +481,14 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>коттеджный поселок "Синицыно"</locality-name>
-<address>Озерный переулок</address>
+<address>Озерный проезд</address>
 </location>
 
 <sales-agent>
@@ -560,14 +560,14 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>коттеджный поселок "Синицыно"</locality-name>
-<address>Озерный переулок</address>
+<address>Озерный проезд</address>
 </location>
 
 <sales-agent>
@@ -639,14 +639,14 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>коттеджный поселок "Синицыно"</locality-name>
-<address>Озерный переулок</address>
+<address>Озерный проезд</address>
 </location>
 
 <sales-agent>
@@ -718,7 +718,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -797,14 +797,14 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-17T16:32:45+03:00</creation-date>
+<creation-date>2022-03-22T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый проспект</address>
+<address>Каштановый проезд</address>
 </location>
 
 <sales-agent>
@@ -1234,7 +1234,7 @@
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый переулок</address>
+<address>Каштановый проезд</address>
 </location>
 
 <sales-agent>
@@ -1322,7 +1322,7 @@
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый переулок</address>
+<address>Каштановый проезд</address>
 </location>
 
 <sales-agent>
@@ -1410,7 +1410,7 @@
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый переулок</address>
+<address>Каштановый проезд</address>
 </location>
 
 <sales-agent>
@@ -1498,7 +1498,7 @@
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый пр</address>
+<address>Каштановый проезд</address>
 </location>
 
 <sales-agent>
@@ -1586,7 +1586,7 @@
 <region>Ленинградская область</region>
 <district>Всеволожский район</district>
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый пр</address>
+<address>Каштановый проезд</address>
 </location>
 
 <sales-agent>
