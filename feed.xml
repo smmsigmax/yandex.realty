@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-<generation-date>2022-03-30T10:00:00+03:00</generation-date>
+<generation-date>2022-04-07T10:00:00+03:00</generation-date>
 
 <offer internal-id="156">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -79,7 +79,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -151,7 +151,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -233,7 +233,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -315,7 +315,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -397,7 +397,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -479,7 +479,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -561,7 +561,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -643,7 +643,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -725,7 +725,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -807,7 +807,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-22T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -890,7 +890,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -980,7 +980,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1070,8 +1070,8 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
-
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
+   
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
@@ -1162,7 +1162,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1253,7 +1253,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1344,7 +1344,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1436,7 +1436,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1527,7 +1527,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1619,7 +1619,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-23T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1710,7 +1710,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1801,7 +1801,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1889,7 +1889,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -1979,7 +1979,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2069,7 +2069,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2160,7 +2160,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2251,7 +2251,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2342,7 +2342,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2433,7 +2433,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2523,7 +2523,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2603,7 +2603,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2683,7 +2683,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2762,7 +2762,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2841,7 +2841,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -2921,7 +2921,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3001,7 +3001,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3081,7 +3081,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3161,7 +3161,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3241,7 +3241,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3321,7 +3321,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3401,7 +3401,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3481,7 +3481,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3561,7 +3561,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3641,7 +3641,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3721,7 +3721,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3801,7 +3801,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3882,7 +3882,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -3962,7 +3962,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4042,7 +4042,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4121,7 +4121,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4200,7 +4200,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4279,7 +4279,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4358,7 +4358,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4437,7 +4437,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4517,7 +4517,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4596,7 +4596,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4675,7 +4675,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4754,7 +4754,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4833,7 +4833,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4913,7 +4913,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -4992,7 +4992,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5071,7 +5071,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5150,7 +5150,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5229,8 +5229,8 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
-
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
+ 
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
@@ -5307,7 +5307,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5386,7 +5386,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5465,7 +5465,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5544,7 +5544,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5623,7 +5623,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5702,7 +5702,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5782,7 +5782,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5861,7 +5861,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -5939,7 +5939,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6018,7 +6018,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6097,7 +6097,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6176,7 +6176,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6254,7 +6254,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6335,8 +6335,8 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
-
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
+   
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
@@ -6414,7 +6414,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6492,7 +6492,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6572,7 +6572,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6652,7 +6652,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6732,7 +6732,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6811,7 +6811,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6891,7 +6891,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -6971,7 +6971,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7051,7 +7051,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7130,7 +7130,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7210,8 +7210,8 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
-
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
+   
 <location>
 <country>Россия</country>
 <region>Ленинградская область</region>
@@ -7290,7 +7290,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7370,7 +7370,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7450,7 +7450,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7530,7 +7530,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7610,7 +7610,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7690,7 +7690,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
@@ -7770,7 +7770,7 @@
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
-<creation-date>2022-03-24T16:32:45+03:00</creation-date>
+<creation-date>2022-04-07T16:32:45+03:00</creation-date>
 
 <location>
 <country>Россия</country>
