@@ -311,88 +311,6 @@
 </video-review>
 </offer>
 
-<offer internal-id="139">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>коттеджный поселок "Синицыно"</locality-name>
-<address>Березовая улица</address>
-</location>
-
-<yandex-village-id>2739289</yandex-village-id>
- 
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2110900</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>11,11</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/139.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №139 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-
-Площадь участка 11,11 соток.
-
-Кадастровый номер: 47:07:1018001:1170
-
-Категория земель: земли сельскохозяйственного назначения.
-
-Разрешённое использование: для дачного строительства.
-
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
-
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
-
 <offer internal-id="138">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -499,7 +417,7 @@
 </sales-agent>
 
 <price>
-<value>1850600</value>
+<value>1753200</value>
 <currency>RUR</currency>
 </price>
 
@@ -581,7 +499,7 @@
 </sales-agent>
 
 <price>
-<value>1841100</value>
+<value>1744200</value>
 <currency>RUR</currency>
 </price>
 
@@ -1247,9 +1165,8 @@
 <online-show>1</online-show>
 </video-review>
 </offer>
-  
-  
-  <offer internal-id="166">
+
+<offer internal-id="166">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
@@ -1262,8 +1179,7 @@
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
 <address>Каштановый проезд</address>
 </location>
-   
-   
+ 
  <yandex-village-id>2739289</yandex-village-id>
 
 <sales-agent>
@@ -1309,11 +1225,10 @@
 <image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
 <is-image-order-change-allowed>0</is-image-order-change-allowed>
 
-
 <description>
 Продается земельный участок №166 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
 
-Площадь участка 10,36 соток.
+Площадь участка 9,78 соток.
 
 Кадастровый номер: 47:07:1018001:994
 
@@ -1339,9 +1254,9 @@
 <online-show>1</online-show>
 </video-review>
 </offer>
+
   
-  
-<offer internal-id="166">
+<offer internal-id="167">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
@@ -1354,7 +1269,6 @@
 <locality-name>Коттеджный поселок "Синицыно"</locality-name>
 <address>Каштановый проезд</address>
 </location>
- 
  
  <yandex-village-id>2739289</yandex-village-id>
 
@@ -1613,98 +1527,6 @@
 </video-review>
 </offer>
   
-  
-
-<offer internal-id="170">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Каштановый проезд</address>
-</location>
-
- <yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>1829700</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>9,63</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/170.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-
-<description>
-Продается земельный участок №170 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-
-Площадь участка 9,63 соток.
-
-Кадастровый номер: 47:07:1018001:794
-
-Категория земель: земли сельскохозяйственного назначения.
-
-Разрешённое использование: для дачного строительства.
-
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
-
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>  
-
 
 <offer internal-id="171">
 <type>продажа</type>
@@ -1884,7 +1706,7 @@
 </offer>
   
  
-  <offer internal-id="174">
+<offer internal-id="174">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
@@ -2736,87 +2558,8 @@
 </video-review>
 </offer>
 
-  <offer internal-id="183">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
 
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Земляничный проезд</address>
-</location>
-   
-   
- <yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>1748000</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>9,2</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/183.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №183 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Площадь участка 9,2 соток.
-Кадастровый номер: 47:07:1018001:1242
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
-
-  <offer internal-id="195">
+<offer internal-id="195">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>участок</category>
@@ -2895,166 +2638,7 @@
 <online-show>1</online-show>
 </video-review>
 </offer>
-
-  <offer internal-id="212">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Ольховый проезд</address>
-</location>
-
- <yandex-village-id>2739289</yandex-village-id>
-   
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2570700</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>13,24</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/212.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №212 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Площадь участка 13,24 соток.
-Кадастровый номер: 47:07:1018001:982
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
-
-  
-<offer internal-id="215">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Ольховый проезд</address>
-</location>
-
-<yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2515600</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>13,24</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/215.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №215 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Площадь участка 13,24 соток.
-Кадастровый номер: 47:07:1018001:1429
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
-  
+ 
 
 <offer internal-id="217">
 <type>продажа</type>
@@ -3618,85 +3202,6 @@
 </offer>
   
   
-<offer internal-id="230">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Луговой проезд</address>
-</location>
- 
-  <yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>1850100</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>8,81</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/230.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №230 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Площадь участка 8,81 соток.
-Кадастровый номер: 47:07:1018001:785
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
-  
   
 <offer internal-id="231">
 <type>продажа</type>
@@ -3856,84 +3361,6 @@
 </video-review>
 </offer>
   
-  <offer internal-id="233">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Еловый проезд</address>
-</location>
-   
-    <yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2573700</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>11,19</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/233.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №233 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Площадь участка 11.19 соток.
-Кадастровый номер: 47:07:1018001:1078
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
   
   <offer internal-id="235">
 <type>продажа</type>
@@ -4014,84 +3441,6 @@
 </video-review>
 </offer>
   
-<offer internal-id="236">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Еловый проезд</address>
-</location>
- 
-  <yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2617400</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>11,38</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/236.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №236 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Площадь участка 11,38 соток.
-Кадастровый номер: 47:07:1018001:1076
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
   
 <offer internal-id="237">
 <type>продажа</type>
@@ -4172,86 +3521,6 @@
 </video-review>
 </offer>
   
-
-  
-<offer internal-id="240">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Березовая улица</address>
-</location>
- 
-  <yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2590000</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>12,95</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/240.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок №240 в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Площадь участка 12,95 соток.
-Кадастровый номер: 47:07:1018001:1040
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>
   
 <offer internal-id="241">
 <type>продажа</type>
@@ -4277,7 +3546,7 @@
 </sales-agent>
 
 <price>
-<value>2019700</value>
+<value>2126000</value>
 <currency>RUR</currency>
 </price>
 
@@ -4356,7 +3625,7 @@
 </sales-agent>
 
 <price>
-<value>1094000</value>
+<value>2094000</value>
 <currency>RUR</currency>
 </price>
 
@@ -5517,85 +4786,6 @@
 </offer>
   
 
-  <offer internal-id="260">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Березовая улица</address>
-</location>
-  <yandex-village-id>2739289</yandex-village-id>
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>1909500</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>10,05</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/260.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Кадастровый номер: 47:07:1018001:1479
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>  
-  
-  
-
   <offer internal-id="261">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -5831,166 +5021,7 @@
 </video-review>
 </offer>  
   
-  
- <offer internal-id="272">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Березовая улица</address>
-</location>
-  
-    <yandex-village-id>2739289</yandex-village-id>
-
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2340000</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>11,7</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/272.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Кадастровый номер: 47:07:1018001:1120
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>  
-  
-  
-
-  <offer internal-id="273">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-   
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Березовая улица</address>
-</location>
-     <yandex-village-id>2739289</yandex-village-id>
-
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>2182000</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>10,91</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/273.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Кадастровый номер: 47:07:1018001:845
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
- Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>  
-  
+ 
 
 <offer internal-id="282">
 <type>продажа</type>
@@ -6549,83 +5580,6 @@
  
  
 
-  <offer internal-id="293">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>участок</category>
-<creation-date>2022-06-03T10:00:00+03:00</creation-date>
-
-<location>
-<country>Россия</country>
-<region>Ленинградская область</region>
-<district>Всеволожский район</district>
-<locality-name>Коттеджный поселок "Синицыно"</locality-name>
-<address>Березовая улица</address>
-</location>
-     <yandex-village-id>2739289</yandex-village-id>
-
-
-<sales-agent>
-<category>agency</category>
-<phone>+78124112222</phone>
-<organization>СИГМАКС</organization>
-<url>https://sinicino.sigmax.su/</url>
-</sales-agent>
-
-<price>
-<value>1837300</value>
-<currency>RUR</currency>
-</price>
-
-<haggle>true</haggle>
-<mortgage>true</mortgage>
-
-<lot-area>
-<value>9,67</value>
-<unit>сотка</unit>
-</lot-area>
-
-<lot-type>садоводство</lot-type>
-
-<image>https://smmsigmax.github.io/yandex.realty/293.png</image>
-<image>https://smmsigmax.github.io/yandex.realty/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%20.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0014.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0020.jpg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0025.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0047.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1954.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1968.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1979.jpg </image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0010%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0012%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0034%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0037%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0039%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DJI_0043%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_1996%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2025%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2052%20Large.jpeg</image>
-<image>https://smmsigmax.github.io/yandex.realty/DSC_2409%20Large.jpeg</image>
-<is-image-order-change-allowed>0</is-image-order-change-allowed>
-
-<description>
-Продается земельный участок в коттеджном поселке Синицыно. В стоимость уже включено 10 кВт электричества.
-Кадастровый номер: 47:07:1018001:844
-Категория земель: земли сельскохозяйственного назначения.
-Разрешённое использование: для дачного строительства.
-Поселок находится по Мурманскому шоссе во Всеволожском районе. В трех километрах от шумной дороги среди заповедника. В поселке протекает речка, есть озеро для рыбалки. Рядом с поселком работает эко-ферма с сезонными овощами, конюшня.
-Проезд в поселок через КПП, работает вывоз мусора, уборка территории, общепоселковое освещение. К каждому участку подведено 10 кВт, уже входит в стоимость.
-Поселок располагается на территории некогда существовавшей деревни Берёзовка, ранее носившая имя Большая Жерновка, история которой насчитывает более 170 лет.
-Расположение: Всеволожский район, от поселка до КАДа 20 км. КП Синицыно.
-Продажа от собственника, проведено межевание, документы готовы. Можно зарегистрировать дом и прописаться, есть полицейский адрес у каждого участка.
-Подробности по телефону, просмотр в любой день!
-</description>
-
-<video-review>
-<youtube-video-review-url> https://www.youtube.com/watch?v=kAxs65QE5Os </youtube-video-review-url>
-<online-show>1</online-show>
-</video-review>
-</offer>  
 
  <offer internal-id="295">
 <type>продажа</type>
